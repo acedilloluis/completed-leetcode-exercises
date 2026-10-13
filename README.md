@@ -33,18 +33,18 @@ Each item contains the problem name, the difficulty of the problem listed on Lee
 | 23. | Not Boring Movies | Easy | 75.3% | Select |
 | 24. | Swap Sex of Employees | Easy | 85% | Update/Misc |
 | 25. | Actors and Directors who Cooperated at Least Three Times | Easy | 71.5% | Sorting and Grouping |
-| 26. | Product Sales Analysis I | Easy | 86.3% |  |
-| 27. | Project Employees I | Easy | 67.5% |  |
-| 28. | Sales Analysis III | Easy | 48.5% |  |
-| 29. | User Activity for the Past 30 Days I | Easy | 51.8% |  |
-| 30. | Article Views I | Easy | 76.9% |  |
-| 31. | Reformat Department Table | Easy | 76.5% |  |
-| 32. | Queries Quality and Percentage | Easy | 55.2% |  |
-| 33. | Recyclable and Low Fat Products | Easy | 88.7% |  |
-| 34. | Invalid Tweets | Easy | 85.3% |  |
-| 35. | Replace Employee ID With The Unique Identifier | Easy | 83.9% |  |
-| 36. | Customer Who Visited But Did Not Make Any Transactions | Easy | 68.8% |  | 
-| 37. | Department Top Three Salaries | Hard | 62.0% |  |
-| 38. | Consecutive Numbers | Medium | 49.6% |  |
-| 39. | Average Time of Process Per Machine | Easy | 67.1% |  |
-| 40. | Students And Examinations | Easy | 62.2% |  |
+| 26. | Product Sales Analysis I | Easy | 86.3% | Joins |
+| 27. | Project Employees I | Easy | 67.5% | Joins |
+| 28. | Sales Analysis III | Easy | 48.5% | Subquery |
+| 29. | User Activity For The Past 30 Days I | Easy | 51.8% | Sorting And Grouping |
+| 30. | Article Views I | Easy | 77.0% | Select |
+| 31. | Reformat Department Table | Easy | 76.6% | Sorting And Grouping |
+| 32. | Queries Quality And Percentage | Easy | 55.3% | Sorting And Grouping |
+| 33. | Recyclable And Low Fat Products | Easy | 88.7% | Select |
+| 34. | Invalid Tweets | Easy | 85.3% | Select |
+| 35. | Replace Employee Id With The Unique Identifier | Easy | 83.9% | Joins |
+| 36. | Customer Who Visited But Did Not Make Any Transactions | Easy | 68.8% | Subquery |
+| 37. | Department Top Three Salaries | Hard | 62.1% | Window Functions |
+| 38. | Consecutive Numbers | Medium | 49.6% | Window Functions |
+| 39. | Average Time Of Process Per Machine | Easy | 67.1% | Subquery |
+| 40. | Students And Examinations | Easy | 62.2% | Joins |
